@@ -1,4 +1,4 @@
-## SuperStore Sales Data Analysis Using PowerBI
+## SuperStore Sales Data Analysis with PowerBI
 This project involves analyzing and visualizing 4years record of a retail dataset for a global superstore brand using Power BI.
 The goal of this project is to analyze and answer the following business questions to aid in making intelligent business decisions;
 - Who are the top customers?
