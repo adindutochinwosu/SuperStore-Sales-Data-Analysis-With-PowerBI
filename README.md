@@ -2,7 +2,7 @@
 This project involves analyzing and visualizing 4years record of a retail dataset for a global superstore brand using Power BI.
 The goal of this project is to analyze and answer the following business questions to aid in making intelligent business decisions;
 - Who are the top customers?
-- Which region had the most sales?
+- Which sales person and region had the most sales?
 - Identity the most profitable Segment.
 - Which Category and Sub-category made the most profit?
 - Identify sales reps and regions that had more sales.
