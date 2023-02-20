@@ -56,6 +56,6 @@ The goal of this project is to analyze and answer the following business questio
 Without access to demographic information such as population numbers for different regions, it is difficult to accurately determine the popularity of Global store in each market. This information is crucial for identifying markets where SuperStore is most popular and where additional marketing and advertising efforts may be required to increase sales. However, it is important to note that having a high population does not necessarily guarantee high sales or market share, as this depends on factors such as competition from key competitors.
 ## RECOMMENDATIONS
 Based on the analysis, the sub-category of tables is currently generating losses for SuperStore. However, the store can optimize profitability by focusing on the 20 unique tables that are profitable and gradually phasing out the loss-making ones from its online inventory or embark on a vigorous campaign.
-#### The screenshot of the final dashboard is displayed below.![Final Dashboard](https://user-images.githubusercontent.com/36298235/219985144-3e860b7c-aba2-44a2-b828-97fa0c0ddd4f.JPG)
+#### The screenshot of the final dashboard is displayed below. 
 
-
+![Final Dashboard](https://user-images.githubusercontent.com/36298235/220062406-2dbe43f0-8255-4965-8f33-ecb6a122ccf9.JPG)
