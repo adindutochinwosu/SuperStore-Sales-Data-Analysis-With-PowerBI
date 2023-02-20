@@ -46,5 +46,6 @@ The goal of this project is to analyze and answer the following business questio
 - Data Visualization
 - Data Reporting
 
-#### The screenshot of the final dashboard is displayed below.
-![Final Dashboard](https://user-images.githubusercontent.com/36298235/216616511-ca99ea90-fec3-49ab-b2f8-011233eabe4f.JPG)
+#### The screenshot of the final dashboard is displayed below.![Final Dashboard](https://user-images.githubusercontent.com/36298235/219985144-3e860b7c-aba2-44a2-b828-97fa0c0ddd4f.JPG)
+
+
