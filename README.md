@@ -1,9 +1,11 @@
-## SuperStore Sales Data Analysis with PowerBI
-This project involves analyzing and visualizing 4years record of a retail dataset for a global superstore brand using Power BI.
+## SuperStore Sales Analysis with Power BI
+An analysis of sales data of a global superstore
+![Final Dashboard](https://user-images.githubusercontent.com/36298235/220062406-2dbe43f0-8255-4965-8f33-ecb6a122ccf9.JPG)
+For this project, I utilized Power BI in analyzing and visualizing 4 years record of a retail dataset for a global superstore brand using Power BI.
 The goal of this project is to analyze and answer the following business questions to aid in making intelligent business decisions;
 - Who are the top customers?
-- Which sales person and region had the most sales?
-- Identity the most profitable Segment.
+- Which salesperson and region had the most sales?
+- Identify the most profitable Segment.
 - Which Category and Sub-category made the most profit?
 - Identify sales reps and regions that had more sales.
 - The average discount applied.
@@ -56,6 +58,4 @@ The goal of this project is to analyze and answer the following business questio
 Without access to demographic information such as population numbers for different regions, it is difficult to accurately determine the popularity of Global store in each market. This information is crucial for identifying markets where SuperStore is most popular and where additional marketing and advertising efforts may be required to increase sales. However, it is important to note that having a high population does not necessarily guarantee high sales or market share, as this depends on factors such as competition from key competitors.
 ## RECOMMENDATIONS
 Based on the analysis, the sub-category of tables is currently generating losses for SuperStore. However, the store can optimize profitability by focusing on the 20 unique tables that are profitable and gradually phasing out the loss-making ones from its online inventory or embark on a vigorous campaign.
-#### The screenshot of the final dashboard is displayed below. 
 
-![Final Dashboard](https://user-images.githubusercontent.com/36298235/220062406-2dbe43f0-8255-4965-8f33-ecb6a122ccf9.JPG)
